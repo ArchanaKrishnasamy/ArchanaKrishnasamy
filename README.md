@@ -1,8 +1,6 @@
 <h1 align="center"> Hi, I'm Archana Krishnasamy! 👋 </h1>  
 
 🚀 **Senior Backend Developer | Java, .NET Core, Cloud | 9+ Years Experience**  
-📍 Bangalore, India | 📩 archanakrishnasamy12@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/archana-krishnasamy-68648774/)  
 
 ---
 
